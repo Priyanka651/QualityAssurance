@@ -1,5 +1,6 @@
 ## Client Server Architecture
-[![Alt Text](https://tse3.mm.bing.net/th?id=OIP.T5bPRtIGFog_MNgFy6erfgHaC_&pid=Api&P=0&h=180)].
+
+![Alt Text](https://tse3.mm.bing.net/th?id=OIP.T5bPRtIGFog_MNgFy6erfgHaC_&pid=Api&P=0&h=180).
 
 
 ## Web Services Testing
@@ -8,8 +9,7 @@ The purpose of Web Services Testing is to check the functionality, reliability, 
 Web Service Testing is similar to unit testing in some cases. You can test a Webservice manually or create your own automation code or use an off-the shelf automation tool like Postman.
 
 
-[![Alt Text](https://tse3.mm.bing.net/th?id=OIP.0CDnPT0HxJyp_NFByuE8kQAAAA&pid=Api&P=0&h=180
-0)].
+![Alt Text](https://tse3.mm.bing.net/th?id=OIP.0CDnPT0HxJyp_NFByuE8kQAAAA&pid=Api&P=0&h=1800).
 
 
 
