@@ -20,11 +20,14 @@ In addition, it fully supports all REST methods like the GET, PUT, POST, PATCH, 
 
 
 1.Use the RestAssured class to generate a
-RequestSpecification for the URL
-2.Specify the HTTP Method type (e.g GET
-method)
+RequestSpecification for the URL.
+
+2.Specify the HTTP Method type (e.g GET method).
+
 3.Send the Request to the server.
+
 4.Get the Response back from the server.
+
 5.Print the returned Response’s body.
 
 
